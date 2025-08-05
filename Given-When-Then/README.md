@@ -2,6 +2,9 @@
 
 ---
 
+- https://mambo.io/blog/acceptance-criteria
+- https://www.ebgconsulting.com/blog/using-given-when-then-to-discover-and-validate-requirements-2/
+  
 ## 📌 Introduction
 
 Le format **Given-When-Then (GWT)**, popularisé par **Behavior-Driven Development (BDD)**, est un outil puissant pour **capturer les exigences** métier, techniques ou fonctionnelles d’un système de manière **claire, testable et collaborative**. Il permet de structurer des **scénarios** à partir de **User Stories**, tout en intégrant les **règles métiers** et les **conditions préalables (preconditions)**. Ce format favorise la **communication entre les parties prenantes** (métier, développeurs, testeurs).
